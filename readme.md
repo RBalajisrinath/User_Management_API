@@ -25,7 +25,7 @@ The User Management API is a RESTful API that allows for the management of user 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/user_management_api.git
+   git clone https://github.com/RBalajisrinath/User_Management_API
    cd user_management_api
    ```
 
